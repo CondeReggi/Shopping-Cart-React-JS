@@ -1,0 +1,7 @@
+.btn_add:hover{
+    background-color: rgb(224, 234, 253);
+}
+
+.btn_add:active{
+    background-color: rgb(193, 213, 250);
+}
